@@ -1,0 +1,30 @@
+.value {
+    display: block;
+    border: 1px solid #2C394B;
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Satisfy', cursive;
+    font-size: regular;
+    font-weight: 1200px;
+    color: #ffffff;
+    background-color: #2C394B;
+}
+
+.timer {
+    display: flex;
+    margin-left: 400px;
+}
+
+.field {
+    padding-right: 25px;
+}
+
+.label {
+    font-family: 'Satisfy', cursive;
+    font-size: regular;
+    font-weight: 600;
+    margin-left: 40px;
+}
